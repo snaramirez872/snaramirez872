@@ -1,6 +1,6 @@
 # Hello World, my name is Sean Ramirez
 
-I am currently working on [SNARDev](https://github.com/snaramirez872/snaramirez-dev), an in-depth collection of tutorials for various programming languages.
+I am currently working on [SNARDev](https://github.com/snaramirez872/snaramirez-dev) and [Effectiveness Dex](https://github.com/snaramirez872/Effectiveness-Dex)
 
 <p>
     <a href="mailto:snaramirez872@gmail.com" rel="noreferrer" target="_blank">
