@@ -1,6 +1,6 @@
 # Hello World, my name is Sean Ramirez
 
-I am currently working on [SeanVGO2](https://github.com/snaramirez872/SeanVGO2)
+I am currently working on [Definitive KH](https://github.com/snaramirez872/definitiveKH)
 
 <p>
     <a href="mailto:snaramirez872@gmail.com" rel="noreferrer" target="_blank">
