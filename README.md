@@ -1,7 +1,7 @@
 # Hello World, my name is Sean Ramirez
 
 <p>
-    <a href="mailto:snaramirez872@gmail.com" rel="noreferrer" target="_blank">
+    <a href="mailto:sean.ramirez.dev@gmail.com" rel="noreferrer" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://linkedin.com/in/seanaramirez/" rel="noreferrer" target="_blank">
